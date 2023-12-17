@@ -1,6 +1,7 @@
-This repository contains the code used to showcase how to implement `Planetscale` database with `Drizzle ORM` in `Next Js`.
+This repository contains the code used to showcase how to implement `next-auth V5` package in `Next Js`.
+
 The video link is:
-[https://www.youtube.com/watch?v=7COYRqixUxU](https://www.youtube.com/watch?v=7COYRqixUxU)
+[https://www.youtube.com/watch?v=rEopVx0FKGI](https://www.youtube.com/watch?v=rEopVx0FKGI)
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
